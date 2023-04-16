@@ -1,0 +1,30 @@
+/* header part */
+.header{
+    text-align: center;
+    background-image: linear-gradient(rgba(229, 215, 215, 0.379),rgb(28, 20, 20)),url(../images/donation0.jpg);
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: center;
+  
+    
+    
+}
+.header-title{
+    padding-top: 180px;
+    margin-bottom: 15px;
+    font-weight: 800px;
+    font-size: 60px;
+
+}
+.header-sub-title{
+    font-size:20px;
+    font-weight: 70px;
+}
+.btn-primary{
+background-color: chocolate;
+height: 50px;
+
+
+}
